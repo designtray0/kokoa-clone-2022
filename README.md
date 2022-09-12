@@ -1,3 +1,3 @@
 # kokoa clone 2022 update
 
-CSS got so mush better!
+HTML & CSS go so much metter!
